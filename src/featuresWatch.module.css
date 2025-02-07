@@ -1,0 +1,11 @@
+.btnFeatures {
+    padding: 10px 15px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    background-color: #d8d7d7;
+    font-weight: 550;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    letter-spacing: 0.5px;
+}

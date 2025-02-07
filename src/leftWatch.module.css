@@ -1,0 +1,61 @@
+.leftWatch {
+    margin-right: -170px;
+    padding-left: 200px;
+    padding-top: 50px;
+    position: absolute;
+    left: -10px;
+}
+
+.leftWatch>img {
+    width: 500px;
+    position: absolute;
+}
+
+#timeWatch {
+    position: absolute;
+    top: 260px;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    left: 390px;
+    color: white;
+}
+
+#heartP {
+    position: absolute;
+    top: 310px;
+    left: 425px;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    color: white;
+}
+
+#heartPic {
+    width: 70px;
+    position: absolute;
+    top: 235px;
+    left: 410px;
+    animation: pulse 1.2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+
+@keyframes pulse {
+    0% {
+        scale: 1;
+    }
+    
+    100% {
+        scale: 1.1;
+    }
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}

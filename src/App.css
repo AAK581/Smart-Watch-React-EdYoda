@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', "Source Sans 3";
+  font-weight: 400;
+}
+
+nav {
+  background-color: #233448;
+  padding-top: 10px;
+  text-align: center;
+}
+
+
+.mainDiv {
+  width: 100%;
+  display: flex;
+}
+
+#featuresH3 {
+  margin-top: -30px;
+  padding-bottom: 20px;
+}
+
+#rightDetails {
+  padding-top: 50px;
+  position: absolute;
+  right: 400px;
+  margin-left: 100px;
+}
+
+#rightDetails>*{
+  padding: 5px 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#rightDetails>p {
+  width: 520px;
+}
+
+#rightDetails>h1 {
+  padding-top: 30px;
+}
+
+#rightDetails>h3 {
+  padding-top: 65px;
+  line-height: 12px;
+  font-weight: 600;
+}
+
+#featuresH3 {
+  margin-top: -30px;
+  padding-bottom: 20px;
+}
+
+#buyNow {
+  padding: 15px 25px;
+  background-color: rgb(222, 145, 1);
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  letter-spacing: 0.5px;
+  font-weight: 550;
+}
