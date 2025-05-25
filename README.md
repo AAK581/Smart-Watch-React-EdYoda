@@ -1,3 +1,12 @@
+
+### A dynamic Smart Watch website, a mini project for EdYoda's Frontend Development course.
+
+
+![image](https://github.com/user-attachments/assets/6189b637-b9e2-465d-b229-888dd6d9f949)
+
+![image](https://github.com/user-attachments/assets/38b02e7a-3c7d-49ef-9c36-de3a4568da97)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
